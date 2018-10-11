@@ -1,0 +1,4 @@
+{"nama":"luthfi","asal_kota":"bandung","_id":"4BEBMWk0fxtddWS0"}
+{"nama":"marco","asal_kota":"merauke","_id":"HH9KcMpMqjAVcmbg"}
+{"nama":"marco","asal_kota":"merauke","_id":"Hg1FJFOp1R8xGGPb"}
+{"nama":"wawan","asal_kota":"merauke","_id":"cJesWXTHIQLgwGn5"}

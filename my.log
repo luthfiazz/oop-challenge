@@ -1,0 +1,8 @@
+[Mon Oct 01 2018 11:25:24 GMT+0700 (WIB)] INFO This is an information about something.
+[Mon Oct 01 2018 11:25:24 GMT+0700 (WIB)] ERROR We can't divide any numbers by zero.
+[Mon Oct 01 2018 11:25:24 GMT+0700 (WIB)] NOTICE Someone loves your status.
+[Mon Oct 01 2018 11:25:24 GMT+0700 (WIB)] WARNING Insufficient funds.
+[Mon Oct 01 2018 11:25:24 GMT+0700 (WIB)] DEBUG This is debug message.
+[Mon Oct 01 2018 11:25:24 GMT+0700 (WIB)] ALERT Achtung! Achtung!
+[Mon Oct 01 2018 11:25:24 GMT+0700 (WIB)] CRITICAL Medic!! We've got critical damages.
+[Mon Oct 01 2018 11:25:24 GMT+0700 (WIB)] EMERGENCY System hung. Contact system administrator immediately!

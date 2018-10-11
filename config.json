@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "nama": "messi",
+      "asal_kota": "argentina"
+    },
+    {
+      "id": 2,
+      "nama": "luthfi",
+      "asal_kota": "bali"
+    }
+  ]
+}

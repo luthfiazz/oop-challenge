@@ -1,0 +1,19 @@
+{
+  "name": "oop-challenge",
+  "version": "1.0.0",
+  "main": "01.hash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "file-system": "^2.2.2",
+    "js-logger": "^1.4.1"
+  },
+  "devDependencies": {
+    "babel-plugin-js-logger": "^1.0.17"
+  },
+  "description": ""
+}

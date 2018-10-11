@@ -1,0 +1,4 @@
+{"nama":"luthfi","asal_kota":"bandung","infos":{"name":"nedb"},"_id":"5TC5IJjxU8Qb6rER"}
+{"nama":"luthfi","asal_kota":"bandung","_id":"JDDEGPdcJHh0d2Ya"}
+{"nama":"luthfi","asal_kota":"bandung","_id":"NSgU8jKOphX4CY84"}
+{"nama":"luthfi","asal_kota":"bandung","infos":{"name":"nedb"},"_id":"1I2utb6IkzGb0N09"}
